@@ -1,4 +1,5 @@
 body {
+    background-color: #5B0500;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -9,4 +10,37 @@ body {
 
 .article-photo {
     width: 200px;
+}
+
+.main-picture {
+    width: 600px;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Noto Sans KR', sans-serif;
+    color: #FBBA2D;
+}
+
+h2 {
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #FBBA2D;
+}
+
+.navigation {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: stretch;
+    align-content: space-evenly;
+    width: 500px;
+}
+
+a {
+    color: #d16c29;
+    text-decoration: none;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: large;
 }

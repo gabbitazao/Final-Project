@@ -1,0 +1,22 @@
+body {
+    background-color: #5B0500;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.myunga-pic {
+    width: 300px;
+}
+
+.ombu-pic {
+    width: 400px;
+}
+
+.title-1 {
+    font-size: x-large;
+}
+
+.title-3 {
+    font-size: x-large;
+}
