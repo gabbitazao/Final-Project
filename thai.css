@@ -8,24 +8,24 @@ body {
     border-width: 5px;
 }
 
-.myunga-pic {
+.skewered-pic {
     display: flex;
     flex-direction: column;
     align-items: center;
-    width: 35%;
+    width: 75%;
     margin: auto;
 }
 
-.ombu-pic {
+.laan-pic {
     display: flex;
     flex-direction: column;
     align-items: center;
-    width: 35%;
+    width: 75%;
     margin: auto;
 }
 
 .title-1 {
-    font-size: x-large;
+    font-size: xx-large;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     color: #FBBA2D;
     display: flex;
@@ -36,64 +36,31 @@ body {
 }
 
 .title-2 {
-    font-size: x-large;
+    font-size: xx-large;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     color: #FBBA2D;
     display: flex;
     flex-direction: column;
     align-items: center;
     width: 75%;
-    margin: auto;
-}
-
-.title-3 {
-    font-size: x-large;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    color: #FBBA2D;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    width: 75%;
-    margin: auto;
-}
-
-.sanfran-pic {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    width: 35%;
     margin: auto;
 }
 
 .pa-1 {
-    font-size: large;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    color: #d16c29;
+    font-size: x-large;
     display: flex;
     flex-direction: column;
     align-items: center;
+    color: #d16c29;
     width: 75%;
-    margin: auto;
 }
 
 .pa-2 {
-    font-size: large;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    color: #d16c29;
+    font-size: x-large;
     display: flex;
     flex-direction: column;
     align-items: center;
-    width: 75%;
-    margin: auto;
-}
-
-.pa-3 {
-    font-size: large;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     color: #d16c29;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    width: 75%;
-    margin: auto;
 }

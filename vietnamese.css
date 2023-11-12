@@ -1,14 +1,11 @@
 body {
     background-color: #5B0500;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
     border-color: #FBBA2D;
     border-style: ridge;
     border-width: 5px;
 }
 
-.myunga-pic {
+.gossip-pic {
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -16,7 +13,7 @@ body {
     margin: auto;
 }
 
-.ombu-pic {
+.pho33-pic {
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -24,8 +21,32 @@ body {
     margin: auto;
 }
 
-.title-1 {
-    font-size: x-large;
+.asia-palace {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 35%;
+    margin: auto;
+}
+
+.pleiku-pic {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 35%;
+    margin: auto;
+}
+
+.pho777-pic {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 35%;
+    margin: auto;
+}
+
+.gt-title {
+    font-size: xx-large;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     color: #FBBA2D;
     display: flex;
@@ -35,8 +56,8 @@ body {
     margin: auto;
 }
 
-.title-2 {
-    font-size: x-large;
+.ph-77 {
+    font-size: xx-large;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     color: #FBBA2D;
     display: flex;
@@ -46,8 +67,8 @@ body {
     margin: auto;
 }
 
-.title-3 {
-    font-size: x-large;
+.ph-33 {
+    font-size: xx-large;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     color: #FBBA2D;
     display: flex;
@@ -57,11 +78,25 @@ body {
     margin: auto;
 }
 
-.sanfran-pic {
+.asia-titlep {
+    font-size: xx-large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #FBBA2D;
     display: flex;
     flex-direction: column;
     align-items: center;
-    width: 35%;
+    width: 75%;
+    margin: auto;
+}
+
+.pleiku-title {
+    font-size: xx-large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #FBBA2D;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 75%;
     margin: auto;
 }
 
@@ -88,6 +123,28 @@ body {
 }
 
 .pa-3 {
+    font-size: large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #d16c29;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 75%;
+    margin: auto;
+}
+
+.pa-4 {
+    font-size: large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #d16c29;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 75%;
+    margin: auto;
+}
+
+.pa-5 {
     font-size: large;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     color: #d16c29;
